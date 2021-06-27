@@ -3,10 +3,10 @@
 ## website Deployed At [https://mrakm.github.io/bluestack/](https://mrakm.github.io/bluestack/)
 
 ![SCREENSHOT](https://github.com/mrakm/bluestack/blob/main/Screenshot%20(1).png?raw=true "screenshot")
-![SCREENSHOT](/Screenshot (2).png?raw=true "screenshot")
-![SCREENSHOT](/Screenshot (3).png?raw=true "screenshot")
-![SCREENSHOT](/Screenshot (4).png?raw=true "screenshot")
-![SCREENSHOT](/Screenshot (5).png?raw=true "screenshot")
+![SCREENSHOT](https://github.com/mrakm/bluestack/blob/main/Screenshot%20(2).png?raw=true "screenshot")
+![SCREENSHOT](https://github.com/mrakm/bluestack/blob/main/Screenshot%20(3).png?raw=true "screenshot")
+![SCREENSHOT](https://github.com/mrakm/bluestack/blob/main/Screenshot%20(4).png?raw=true "screenshot")
+![SCREENSHOT](https://github.com/mrakm/bluestack/blob/main/Screenshot%20(5).png?raw=true "screenshot")
 
 
 # Install Procedure Given Below
