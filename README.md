@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# For BlueStack 
+
+## website Deployed At [https://mrakm.github.io/bluestack/](https://mrakm.github.io/bluestack/)
+
+![SCREENSHOT](/Screenshot (1).png?raw=true "screenshot")
+![SCREENSHOT](/Screenshot (2).png?raw=true "screenshot")
+![SCREENSHOT](/Screenshot (3).png?raw=true "screenshot")
+![SCREENSHOT](/Screenshot (4).png?raw=true "screenshot")
+![SCREENSHOT](/Screenshot (5).png?raw=true "screenshot")
+
+
+# Install Procedure Given Below
+
+-----------------------------------------------------------
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
